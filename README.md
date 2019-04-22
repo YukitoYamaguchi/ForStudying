@@ -1,2 +1,2 @@
 # ForStudying
-Study JavaScript and PHP for joined Gizumo
+Study JavaScript and PHP for joining Gizumo
